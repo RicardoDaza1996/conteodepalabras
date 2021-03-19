@@ -1,4 +1,5 @@
 #RAFAEL RICARDO DAZA SOLARTE
+#Lenguaje de 4rta generacion
 texto = 'este es un texto el cual deben contar el numero de palabras que tiene, debe tener en cuenta, que las palabras escritas EN MAYUSCULAS y minusculas cuenta como una este. Texto'
 ignorar=",;:.\n!\"'"
 for quitar in ignorar:
